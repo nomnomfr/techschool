@@ -1,0 +1,270 @@
+
+/*header */
+
+
+
+/* zone "navbar" */
+.menu{
+	width:80%;
+	margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+
+}
+
+li{
+	float: left;
+	text-decoration: overline;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+}
+
+li a:hover{
+	background-color: #a6a6a6;
+}
+
+
+body {
+  background-color: #404040;
+  background-image: url("https://cdn.pixabay.com/photo/2019/02/20/06/07/computer-4008491_960_720.jpg");
+  background-opacity: 50%;
+  background-repeat: no-repeat;
+  height: 100%;
+  width:99.90%;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  margin:1px;
+
+}
+
+
+
+/*page home*/
+h1{
+  color: white;
+  text-align: center;
+  font-family: "Lucida Console", monospace;
+  font-weight:bold;
+  font-size: 45px;
+}
+
+.ph1{
+ color: #4dd2ff;
+ text-align: center;
+ font-family: "Arial", Sans-serif;
+ font-size: 25px;
+ font-weight:bold;
+ text-shadow: 5px 5px 6px black;
+}
+
+.ph2{
+color: #b3b3b3;
+font-size: 20px;
+font-weight:normal;
+}
+
+.ph3{
+color: #b3b3b3;
+font-size: 18px;
+font-weight:normal;
+}
+
+
+
+
+
+
+
+
+
+/*page cour*/
+
+.bodyC{
+	margin-top: 1%;
+	margin-bottom: 1%;
+	margin-right: 1%;
+	margin-left: 1%;
+}
+
+.pc2{
+	font-size: 20px;
+	color: white;
+	font-family: "Lucida Console", monospace;
+	text-shadow: 4px 4px 6px black;
+}
+
+.pc3{
+	font-size: 14px;
+	color: #d9d9d9;
+	font-family:Arial, Sans-serif;
+}
+
+/*tableau de situation*/
+
+table,th,td{
+	border:1px solid #1a1a1a;
+	background: #333;
+	opacity:0.9;
+}
+table{
+	border-collapse: collapse;
+	width:50%;
+
+}
+
+th{
+	color:white;
+	font-family: "Lucida Console", monospace;
+	font-size: 30px;
+	height:50px;
+}
+
+td{
+	text-align:center;
+	color:white;
+}
+.td1{
+	color:red;
+}
+.td2{
+	color:green;
+}
+
+.hc1{
+  color: white;
+  text-align: center;
+  font-family: "Lucida Console", monospace;
+  font-weight:bold;
+  font-size: 25px;
+}
+
+
+.aCour:link{
+	color:#cccccc;
+}
+.aCour:visited{
+	color:#a6a6a6;
+}
+.aCour:hover{
+	color:#a6a6a6;
+}
+.aCour:active{
+	color:#a6a6a6;
+}
+
+/*Contenue cour*/
+
+.Div2Cour{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+.pCour1{
+	color:white;
+	font-size:28px;
+	font-family: "Lucida Console", monospace;
+	border-radius: 25px;
+	padding: 20px; 
+	background-color: #333333;
+	opacity: 0.9;
+	text-decoration: underline;
+	letter-spacing: -2px;
+}
+
+.pCour2{
+	color: white;
+	font-size:22px;
+	border-radius: 25px;
+	padding: 20px; 
+	background-color: #4d4d4d;
+	opacity: 0.8;
+	margin-right: 10%;
+	margin-left: 0%;
+
+}
+
+.pCour3{
+	color:#e6e6e6;
+	font-size:18px;
+	border-radius: 15px 50px 30px 5px;
+	background-color: #262626;
+	padding: 20px; 
+	opacity: 0.75;
+	margin-right: 20%;
+	margin-left: 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*zone footer*/
+.pf{
+	display: flex;
+    justify-content: center;
+	position:absolute;
+	bottom: 0;
+    padding-top: 5px;
+	background-color: #333;
+	width:99.90%;
+	height:35px;
+	text-align: center, bottom;
+	font family: "Arial", Sans-serif;
+	attachment: fixed;
+}
+
+.pf1{
+	display: flex;
+    justify-content: center;
+	position:footer1;
+	bottom: 0;
+    padding-top: 5px;
+	background-color: #333;
+	width:99.90%;
+	height:35px;
+	text-align: center, bottom;
+	font family: "Arial", Sans-serif;
+	attachment: fixed;
+}
+
+.af:link{
+	color:#a6a6a6;
+}
+.af:visited{
+	color:#cccccc;
+}
+.af:hover{
+	color:#006080;
+}
+.af:active{
+	color:#4dd2ff;
+}
