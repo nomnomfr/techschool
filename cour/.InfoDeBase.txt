@@ -1,0 +1,44 @@
+Ce cours est très théorique et est destiner a aider les personnes qui débutes dans le domaine.
+Je donnerai les termes les plus important en anglais et en français pour que vous puissez les comprendres dans les documentations techniques ainsi que tout autres document avec ses termes.
+
+
+Courte explication de l'informatique:
+
+
+L'informatique est un mots qui regroupe et généralise un domaine scientifique, technique, et industriel de traitement automatique d'information numérique par l'éxecution de programmes informatique
+par différentes machines : ordinateur, robots, automates, ect...
+
+Dans l'informatique, on peu distinguer 2 branche :
+
+pratique : la ou on peu retrouver des techniques concrètes de mise en œuvre
+théorique : la ou on est concerner par la définition de concepts et modèles
+
+
+Histoire de l'informatique:
+
+
+Si on ne prend pas en compte les "machine a calculer" comme les abaque ou les boulier qui on était crée vers -1750 avance JC, les 1ères traces de l'informatique remonte a 1642 avec la Pascaline qui était
+une machine a calculer (dont il reste un exemplaire au musée des arts et métiers).
+Ensuite les 1ères traces de programation viennes des "métiers à tisser à carte pérforées" de Joseph Marie Jacquard qui créa le concept de la programation.
+
+
+Pourquoi apprendre l'informatique?
+
+Aujourd'hui l'informatique est présent partout et a remplacer et crée des taches dans tout les domaines.
+Avec l'informatique de nombreux concept on était crée tel que l'Intéligence Artificiel (I.A ou A.I en anglais pour Artificial Inteligence), l'algorithmie ou la programation plus simplement.
+Pour les Mr/Mme.tout le monde ils est important d'apprendre le fonctionnement de l'informatique car au XXI siècle il est au centre de notre communauté;
+ils remplaces beaucoup de métier et en crée/modifie d'autres.
+Il est d'une tel importance que aujourd'hui les hommes(être humain) sont juger par leur compétence en informatique (maitrise de logiciel,vitesse de travaille avec les outils informatique, ect...).
+Pour cela j'ai crée se site qui vous propose les cours que j'écris grâce a mes connaissances.
+Dans les cours que je propose je séparerai l'informatique en 3 domaine :
+
+Hardware (matériel) : Je présenterai des cours sur les composants informatique et les composant réseau avec leur utiliter et leur fonctionnement.
+
+Software (logiciel) : Je montrerai dans les cours les bases du fonctionnement d'un programe,d'un logiciels ou d'un système d'exploitation et la base de leur utilisation.
+
+Network (réseau) : c'est cours seront souvent relier avec les 2 autres domaines et je conseillerai de lire les cours les plus important avant de commencer se dommaines.
+
+et en bonus des tutoriaux pour certains problème selon les demandes.
+
+
+m.desenfant

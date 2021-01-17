@@ -1,0 +1,79 @@
+Dans ce cour je vais vous expliquer les bases du Hardware (matériel).
+Je ferais que présenter les composants et expliquer leur roles sans rentrer dans les détails; des cours détailler sur chaques composants viendrons plus tard.
+Et je ne présenterai que des composant de pc (personnal computer ou ordinateur personnel en français) des cours sur les composants spécifiques viendront plus tard.
+
+
+
+Les différent Ordinateur:
+
+Avant de montrer tout les composants d'un pc je vais vous ennoncer les differents ordinateur que vous pouvez cotoyer:
+
+-Le PC, qu'il soit portable ou non est destiner au particulier ou au entreprises et a un usage personnel (personnel n'est pas égale a ). //img
+-les tablettes, qui sont souvent fait avec les mêmes composant. //img
+-smartphone, oui les smartphone sont des ordinateurs qui on la possibilité d'appeler et qui remplace les téléphones numérique et analogique. //img
+-Les serveurs, se sont des ordinateur qui propose des services (service web,réseau,jeux,ect...) j'en parlerai souvent dans les cours de réseaux. //img
+-les micro ordinateur, souvent utiliser dans les "écrants-pc" pour gagner de la places. //img
+(il en existe bien d'autre mais la liste serait trop longue) 
+
+ 
+
+les différent composants qui constitue un Ordinateur:
+
+Dans tout les types d'ordinateurs nous avons pratiquement la même structures mais en changeant la forme des composants.
+Exemple avec celui d'une carte mere d'un PC de bureau et celui d'un téléphone.
+
+//img
+
+
+-le processeur ou CPU (Central Processins Unit)
+c'est le cerveau de l'ordinateur, c'est lui qui éffectue le plus gros des taches (après tout dépend du programmes).
+selon les models de processeurs il pourra effectuer un plus grand nombre de taches
+//img
+
+-la carte mére ou mobo (motherboard)
+C'est le corps de l'ordinateur, c'est sur lui que tout les composants sont connecter et communique.
+//img
+
+-la mémoire vive ou ram (Random Access Memory)
+C'est une mémoire sélective, sont role est de soulager les calcules du processeur en s'occupant d'enregistrer des petits calculs le temps d'une séssion car a chaque redémarrage les calcules stocker s'effaceront.
+//img
+
+-le disque dur ou HDD (Hard Disk Drive)
+c'est la mémoire de l'ordinateur, selon les supports il sont appeller différament (ssd,carte mémoire,ect...) mais sont role reste le même c'est de stocker les données de maniere définitive. 
+//img
+
+-la carte graphique ou GPU (Graphics Processing Unit)
+c'est les yeux de l'ordinateur, il n'est pas forcement obligatoire (je ferait un cours spécifique sur ce composant) mais il aides dans les taches qui on besoin de beaucoup de calcules graphique (jeux vidéo, modélisation 3D,ect...).
+//img
+
+-la carte réseau ou network card
+C'est le dialecte de l'ordinateur, comme le GPU il n'est pas forcement obligatoire mais grâce a elle on peut avoir de nouveau moyen de connection au réseau (en fillaire avec le port RJ45, en WI-FI ou en bluetooth).
+//img
+
+-l'alimentation
+C'est les système sanguin de l'ordinateur sans lui rien ne fonctionne, il a comme role de convertire l'énergie alternative en continue et de donner assez d'énergie a tout les composants; (les batteries de téléphone et d'ordinateur portable ne sont pas l'alimantation mais c'est
+le chargeur car c'est lui qui s'occupe de la conversion de l'allimentation et que les ordinateurs portable peuvent fonctionner sans batterie).
+//img
+
+
+Les périphériques:
+
+un ordinateur sans prériphérique n'est rien, même si les téléphones n'ont pas de clavier ou de sourie brancher en externe il on un écrant avec un capteur digital (capteur tactile) intégrer qui fait tout a la fois.
+Se que c'est qu'un périphérique? la première catégorie ce sont des capteurs, que ça soit une sourie qui capture l'emplacement du curseur par rapport au monde réel ou au clavier qui capture la préssion d'une touche réel qui est retransmit par un caractère sur un texte ou a une action dans un jeux;
+Tout cela reste des capteurs.
+La seconde catégorie c'est des recepteurs; par exemple l'écrant n'est rien d'autre que un amas de led qui forme des pixel, et selon la couleur de la led allumer ceci affiche un couleur spécifique puis selon la donner envoyer par l'ordinateur l'écrant affichera l'image demander.
+Puis certain périphérique font les 2 comme les scanners-imprimantes.
+
+
+
+m.desenfant    
+
+
+
+
+
+
+
+
+
+
