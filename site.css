@@ -54,33 +54,72 @@ body {
 
 
 /*page home*/
-h1{
+
+.DivHome{
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+
+.hh1{
   color: white;
   text-align: center;
   font-family: "Lucida Console", monospace;
   font-weight:bold;
   font-size: 45px;
+  font-size:28px;
+  border-radius: 25px;
+  padding: 20px; 
+  background-color: #4d4d4d;
+  opacity: 0.9;
+  text-decoration: underline;
+  letter-spacing: -2px;
+  margin-right: 30%;
+  margin-left: 30%;
 }
 
 .ph1{
  color: #4dd2ff;
  text-align: center;
  font-family: "Arial", Sans-serif;
- font-size: 25px;
+ font-size: 22px;
  font-weight:bold;
- text-shadow: 5px 5px 6px black;
+ text-shadow: 5px 5px 7px black;
+ border-radius: 20px;
+ padding: 10px; 
+ background-color: #808080;
+ opacity: 0.8;
+ letter-spacing: -2px;
+ margin-right: 0%;
+ margin-left: 0%;
 }
 
 .ph2{
-color: #b3b3b3;
-font-size: 20px;
-font-weight:normal;
+ color: #e60000;
+ font-size: 20px;
+ font-weight:normal;
+ font-family: "Arial", Sans-serif;
+ text-shadow: 3px 3px 5px black;
+ border-radius: 20px;
+ padding: 10px; 
+ background-color: #595959;
+ opacity: 0.8;
+ margin-right: 50%;
+ margin-left: 0%;
 }
 
 .ph3{
-color: #b3b3b3;
-font-size: 18px;
-font-weight:normal;
+ color: #1a1a1a;
+ font-size: 18px;
+ font-weight:normal;
+ font-family: "Arial", Sans-serif;
+ border-radius: 20px;
+ padding: 10px; 
+ background-color: #d9d9d9;
+ opacity: 0.6;
+ margin-right: 70%;
+ margin-left: 0%;
 }
 
 
