@@ -64,7 +64,7 @@ Tout cela reste des capteurs.
 La seconde catégorie c'est des recepteurs; par exemple l'écrant n'est rien d'autre que un amas de led qui forme des pixel, et selon la couleur de la led allumer ceci affiche un couleur spécifique puis selon la donner envoyer par l'ordinateur l'écrant affichera l'image demander.
 Puis certain périphérique font les 2 comme les scanners-imprimantes.
 
-
+j'espere que cela a pu vous avancer a mieux comprendre les bases du hardware, des cours plus pousser viendront compléter se cours.
 
 m.desenfant    
 
