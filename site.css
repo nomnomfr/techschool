@@ -84,11 +84,32 @@ font-weight:normal;
 }
 
 
+/*page cqcs*/
 
+.Pcqcs1{
+	color:white;
+	font-size:28px;
+	font-family: "Lucida Console", monospace;
+	border-radius: 25px;
+	padding: 25px; 
+	background-color: #333333;
+	opacity: 0.9;
+	text-decoration: underline;
+	letter-spacing: -2px;
+	text-align: center;
+}
 
-
-
-
+.Pcqcs2{
+	color: white;
+	font-size:20px;
+	border-radius: 15px;
+	padding: 15px; 
+	background-color: #4d4d4d;
+	opacity: 0.8;
+	margin-right: 10%;
+	margin-left: 0%;
+	text-align: left;
+}
 
 
 /*page cour*/
@@ -165,6 +186,22 @@ td{
 .aCour:active{
 	color:#a6a6a6;
 }
+
+
+.tdlevel1{
+	color:#4dff4d;
+}
+
+
+.tdlevel2{
+	color:#e68a00;
+}
+
+
+.tdlevel3{
+	color:#990000;
+}
+
 
 /*Contenue cour*/
 
