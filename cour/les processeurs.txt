@@ -1,0 +1,103 @@
+Avant de commencer a lire se cours je conseil de lire le cours sur Hardware si vous êtes débutant.
+
+
+
+
+
+
+
+
+
+La constitution et conception d'un processeur.
+
+Un processeur est un puce qui peu avoir un "design" different selon les marque et les models.
+Se que j'appelle "design" je parle de conception et réflextion du processeur; je parlerai d'avantage dans un future cour pour les personnes plus déterminer.
+Dans les constructeur de CPU (Central Processins Unit) nous avont Intel et AMD dans le domaine des PC, pour les téléphones et tablettes on as: Samsung, Apple, Qualcomm, MediaTek, Rockchip,
+Huawei et bien d'autre encore.
+
+
+Pour tout les processeurs depuis 10 ans, nous retrouvont une compositions avec plusieurs coeurs (core en anglais); chacun de ses coeurs peuvent effectuer des taches différentes simultanément (selon les applications).
+Par exemple :un processeur avec 2 coeurs pourra effectuer une recherche google et un traitement de texte;
+la ou un 4 coeurs pourra lancer un jeux qui lui prendra 2 de ses coeurs et faire une recherche google et un traitement de texte.
+
+////////////faire shéma///////////////
+
+Dans ces même processeurs il est possible qu'ils possèdes la technologie d'hyper-threading, pour faire simple c'est une simulation de coeurs qui fera en parallelle le travaille.
+Au lieu de donner une charge de travail importante à un seul cœur, les programmes threaded divisent le travail en plusieurs tâches (threads) logicielles. 
+Grace a cela on peut gagner jusqu'a 30% de performance en plus sur les mêmes taches ou simplement lancer 2 programme sur le même coeurs.
+par exemple un CPU 4 coeurs avec de l'hyper-Threading aura 8 thread
+
+////////////faire shéma///////////////
+
+Chaque processeurs posséde aussi un cache, c'est une mémoire qui enregistre temporairement des copies de données provenant d'une source, afin de diminuer le temps d'un accès ultérieur d'un materiel informatique a ses données.
+
+////////////faire shéma///////////////
+
+Les processeur on aussi une fréquence (exprimer en hertz ou Hz), cela represente la vitesse ou les coeurs éffecturont les taches. 
+Le 1er processeur (l'intel 4004) était cadencer a 0.74MHz, la ou aujourd'hui a vitesse varie de 1Ghz a 5Ghz (1000 MHz a 5000 MHz).
+
+
+
+
+
+
+
+
+
+
+
+Les différents processeur de chez Intel:
+
+Chez Intel pour comprendre la logique de leur processeurs c'est assez simple;
+Nous avont tout d'abord les Celeron et pentium qui sont le plus bas de gamme de la marque, souvent des 2 coeurs il on rarement de l'hyper-threading et sont recommander que pour de la bureautique.
+
+Au dessus nous avons les Intel core: I3,I5,I7 et I9.
+Les I3 on aujourd'hui 4 coeur et 8 thread (faire gaffe a la generation; j'en parlerai plus tard);ce sont les plus petit des Intel core, et il sont exellent pour de la bureautique et peuvent faire tournée des petits jeux.
+Les I5 on aujourd'hui 6 coeur et 12 thread (pareil que les I3 faire gaffe au génération);ce sont le millieux de game de chez intel, il sont très bon pour se qui est du multitache et sont le meilleurs choix qualité/prix pour se qui est des jeux vidéo.
+Les I7 on aujourd'hui 8 coeur et 16 thread ( // ); c'etait durant longtemps les meilleurs proposer au consomateur, aujourd'hui il sont utiliser pour du gros multitache et pour les professionnels (animateur 3D, dévloppeur, ect...).
+Les I9 on aujourd'hui entre 8 a 18 coeur et 16 a 36 thread (selon la génération et le models); c'est actuellement le plus haut de gamme proposer au consomateur, il est utiliser pour du multitache intense et pour les professionnels.
+
+Encore au dessus nous avont les Xeon, qui sont conçu pour des serveurs, il sont très chere et fait pour rester longtemps en fonction.
+
+Tous ses processeur on des chiffre après leur nom, et il on une signification. 
+
+////////faire shéma explicatif//////////
+
+
+
+
+
+
+
+
+
+
+Les différents processeur de chez AMD:
+
+Comme je l'ai dit au début nous avons AMD qui font aussi des CPU;
+
+Nous avons les sempron et atlon avec 2 a 4 coeur et 4 a 8 thread; qui sont des équivalents a des anciens Celeron et pentium, aujourd'hui ils sont dépasser et je les recommande seulement pour de la bureautique.
+
+Au dessus nous avons les ryzen:Ryzen 3, Ryzen 5, Ryzen 7 et Ryzen 9 qui sont des équivalent des core chez intel.
+La grande différence entres ses 2 larque sur cette gammes ce sont le ration performance/prix qui selon les utilisations et logiciel peuvent être plus rentable chez l'une des marques.
+
+Comme les Ryzen et les core on as les threadripper qui sont les concurents des Xeon
+
+
+
+Pour savoir lequel vous correspond le mieux il suffit de regarder des benchmark sur internet.
+https://www.userbenchmark.com/
+
+comme pour intel tout les chiffre après leur nom on une signification. 
+
+
+///////shema explicatif////////
+
+
+
+
+
+
+
+
+
